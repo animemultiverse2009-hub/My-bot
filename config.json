@@ -1,0 +1,279 @@
+{
+    "token": "Token_Here",
+    "clientId": "1448592419477262440",
+    "guildId": "1448580909828931626",
+    "ownerId": "1043117930885427201",
+    "channels": {
+        "claimCategory": "1457973199869317226",
+        "checkInvites": "1458437315058991270",
+        "howToInvite": "1458437351251513499",
+        "inviteReward": "1458437174901870788",
+        "claimReward": "1458437174901870788",
+        "vouchPayments": "1448585136005320744",
+        "boostPrizes": "1458437214039052443",
+        "inviteLog": "1448585136005320744"
+    },
+    "roles": {
+        "adminPing": "1448594906355597446",
+        "3invites": "1448641893255876799",
+        "6invites": "1448641968652423299",
+        "9invites": "1454710094309625920",
+        "12invites": "1448642027326673029",
+        "boost1x": "1454746674688954460",
+        "boost2x": "1454746731597135913",
+        "verifiedMember": "1455507659611443272",
+        "humanVerified": "1455520475152126128"
+    },
+    "emojis": {
+        "guide": "<:Guide:1448599908536942614>",
+        "checkInvite": "<:CheckInvite:1448599897430560841>",
+        "link": "<:Link:1448599914962489396>",
+        "mobile": "<:Mobile:1448599919119302688>",
+        "desktop": "<:Desktop:1448599901985439795>",
+        "step1": "<:Step1:1448599936055640198>",
+        "step2": "<:Step2:1448599938698313798>",
+        "invite": "<:Invite:1448599910424252486>",
+        "giftbox": "<:Giftbox:1448599904434782321>",
+        "clock": "<:Clock:1448599899984756839>",
+        "barrow": "<:barrow:1448599890384130078>",
+        "parrow": "<:parrow:1448599928984174672>",
+        "lbarrow": "<:lbarrow:1448599912483651586>",
+        "yarrow": "<:yarrow:1448599947116150947>",
+        "nitrobasic": "<:nitrobasic:1448599922105647154>",
+        "nitrobasic1": "<:nitrobasic1:1479390734158397534>",
+        "nitroboost": "<:nitroboost:1448599924332695637>",
+        "nitroytearl": "<:nitroytearl:1448599926815719506>",
+        "robux": "<:robux:1448599933841309736>",
+        "probux": "<:probux:1448599931173732427>",
+        "grobux": "<:grobux:1448599906376880233>",
+        "bluepin": "<:bluepin:1448599892594266243>",
+        "bluereply": "<:bluereply:1448599894670708736>",
+        "mail": "<:mail:1448599916976017408>",
+        "tada": "<:Tada:1448599941055254681>",
+        "alert": "<a:Alertt:1448657635065729176>",
+        "rarrow": "<:Rarrow:1479390745176707153>",
+        "ourRewards1": "<:OurRewards:1479390753494142976>",
+        "ourRewards2": "<:OurRewards2:1479390762280943739>",
+        "ourRewards3": "<:OurRewards3:1479390771257016392>",
+        "ourRewards4": "<:OurRewards4:1479390779578257490>",
+        "ourRewards5": "<:OurRewards5:1479390789527146517>",
+        "ourRewards6": "<:OurRewards6:1479390798050230364>",
+        "blueline": "<:Blueline:1479390807663317155>",
+        "notice1": "<:Notice1:1479390816857362463>",
+        "notice2": "<:Notice2:1479390824985919488>",
+        "notice3": "<:Notice3:1479390833290772615>",
+        "notice4": "<:Notice4:1479390842429902970>",
+        "notification": "<a:notification:1448680666987233380>",
+        "wtick": "<:wtick:1479390854849237184>",
+        "wcross": "<:wcross:1479390863443623999>",
+        "cross": "<:cross:1479390871895019655>",
+        "wtickk": "<:wtickk:1479390880237490259>",
+        "wnext": "<:wnext:1479390888743665746>",
+        "discordlogo": "<:Discordlogo:1479390897119432817>",
+        "balert": "<:balert:1479390907437682801>",
+        "arrow": "<:arrow:1479390918581686293>",
+        "loading": "<a:loading:1448680186491961475>",
+        "loading2": "<a:loading2:1479390929822679225>",
+        "skip": "<:skip:1479390940681732176>",
+        "rcross": "<:rcross:1479390949200363673>",
+        "gtick": "<:gtick:1450496755522338759>",
+        "verification": "<:Verification:1448599943215317125>",
+        "animatedarrow": "<a:animatedarrow:1479390967025893418>",
+        "boost": "<a:boost:1479390983971143834>",
+        "boost1": "<a:boost1:1454748707726688412>",
+        "key": "🔑",
+        "shortxlinks": "🔗",
+        "lootlabs": "🔗",
+        "shield": "🛡️",
+        "members": "👥"
+    },
+    "images": {
+        "checkInvitesBanner": "https://media.discordapp.net/attachments/1458443455725305980/1479404245768994857/Check_Invites_Banner.png?ex=69abea12&is=69aa9892&hm=77366043afec9f220340078aab7ebd9b230727bb036cfc673cedd242d571e24e&=&format=webp&quality=lossless&width=1600&height=255",
+        "selectRewardsBanner": "https://media.discordapp.net/attachments/1458443455725305980/1479404386349482115/Select_Rewards.png?ex=69abea33&is=69aa98b3&hm=a1b2a50a64cf22c8e73309d09e70793b29ded1c18f2bf3ec1044fc7a72d1c629&=&format=webp&quality=lossless&width=1280&height=191",
+        "mobileTutorial": "https://media.discordapp.net/attachments/1458443455725305980/1479404386869579909/Mobile_Invite_Tutorial.png?ex=69abea33&is=69aa98b3&hm=e3b6d32a5d8592f39e4765ad38a11c5161c1edeb0097838e7b494ed2ab704841&=&format=webp&quality=lossless&width=1350&height=720",
+        "desktopTutorial": "https://media.discordapp.net/attachments/1458443455725305980/1479404386013941912/Desktop_Invite_Tutorial.png?ex=69abea33&is=69aa98b3&hm=6c076a61b5bb0b3febd1b82080117f24934c4cc68133923d2d8d3230b97e9a2b&=&format=webp&quality=lossless&width=1350&height=720",
+        "verificationBanner": "https://media.discordapp.net/attachments/1458443455725305980/1479404246565916692/image_10_3.png?ex=69abea12&is=69aa9892&hm=581da7d68c9167de049188173a7990c53b7005a60e365f0f66f2ffd7e3bc359b&=&format=webp&quality=lossless&width=1679&height=446",
+        "confirmationIcon": "https://media.discordapp.net/attachments/1458443455725305980/1479404247224160327/Icon-Image-20240802020246866-NEW-WAP-ICON-512-512.png?ex=69abea12&is=69aa9892&hm=a284a6ebc3925b358cb25a4899ebae16862d95192019da65ba3b28cfa4aecf3d&=&format=webp&quality=lossless&width=640&height=640",
+        "cancelledIcon": "https://media.discordapp.net/attachments/1458443455725305980/1479404247799042218/1339302100827373671.png?ex=69abea12&is=69aa9892&hm=0196664e7df436deba796887f4bcac5948d8053d9d9670c4244a33d7ab776a49&=&format=webp&quality=lossless&width=60&height=60",
+        "errorIcon": "https://media.discordapp.net/attachments/1458443455725305980/1479404248470126593/1318199312177565696.png?ex=69abea12&is=69aa9892&hm=47f7876f5d45651adc6895c5cc7afaa79e16cfee0de8fe3ed00f7710f2c2e404&=&format=webp&quality=lossless&width=120&height=120",
+        "boostErrorIcon": "https://media.discordapp.net/attachments/1458443455725305980/1479404250755760200/zcR61Vv.png?ex=69abea13&is=69aa9893&hm=7b1243271709ffb4858c05f2a8846c722eaed542ffac811665aa7d3c4234b527&=&format=webp&quality=lossless&width=625&height=625"
+    },
+    "rewards": [
+        {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        {
+            "id": "nitro_boost_1m",
+            "name": "Nitro Boost (1 Month)",
+            "displayName": "Nitro",
+            "duration": "1 month",
+            "emoji": "<:nitroboost:1454712956230176811>",
+            "invitesRequired": 6,
+            "type": "nitro",
+            "roleId": "1448641968652423299",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720575867064410/1454720976330817661/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720575867064410/1454721504871841854/nitroboost.webp",
+            "embedColor": "#5C8AFF"
+        },
+        {
+            "id": "nitro_basic_1y",
+            "name": "Nitro Basic (1 Year)",
+            "displayName": "Nitro Basic",
+            "duration": "1 year",
+            "emoji": "<:nitrobasic:1448599647013699615>",
+            "invitesRequired": 9,
+            "type": "nitro",
+            "roleId": "1454710094309625920",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720631101722829/1454721108497666110/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720631101722829/1454721394410786930/nitrobasic.webp",
+            "embedColor": "#5C8AFF"
+        },
+        {
+            "id": "nitro_boost_1y",
+            "name": "Nitro Boost (1 Year)",
+            "displayName": "Nitro",
+            "duration": "1 year",
+            "emoji": "<:nitroytearl:1448599651325448314>",
+            "invitesRequired": 12,
+            "type": "nitro",
+            "roleId": "1448642027326673029",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720655827402895/1454720798379212975/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720655827402895/1454721538069893365/nitroytearl.webp",
+            "embedColor": "#5C8AFF"
+        },
+        {
+            "id": "robux_450",
+            "name": "450 Robux",
+            "displayName": "450 Robux",
+            "amount": 450,
+            "emoji": "<:robux:1448599660766957680>",
+            "invitesRequired": 3,
+            "type": "robux",
+            "roleId": "1448641893255876799",
+            "payoutImage": "https://media.discordapp.net/attachments/1454721689849036956/1454722097858351245/image_4.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454721689849036956/1454722714786070538/robux.webp",
+            "embedColor": "#F1EB7A"
+        },
+        {
+            "id": "robux_1500",
+            "name": "1,500 Robux",
+            "displayName": "1500 Robux",
+            "amount": 1500,
+            "emoji": "<:probux:1448599657016987668>",
+            "invitesRequired": 6,
+            "type": "robux",
+            "roleId": "1448641968652423299",
+            "payoutImage": "https://media.discordapp.net/attachments/1454722450742054942/1454722605075398847/image_5.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454722450742054942/1454722779696988372/probux.webp",
+            "embedColor": "#F1EB7A"
+        },
+        {
+            "id": "robux_4500",
+            "name": "4,500 Robux",
+            "displayName": "4500 Robux",
+            "amount": 4500,
+            "emoji": "<:grobux:1448599627107405878>",
+            "invitesRequired": 12,
+            "type": "robux",
+            "roleId": "1448642027326673029",
+            "payoutImage": "https://media.discordapp.net/attachments/1454722254406680772/1454722382550929468/image_6.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454722254406680772/1454722810814664817/grobux.webp",
+            "embedColor": "#F1EB7A"
+        }
+    ],
+    "boostRewards": [
+        {
+            "id": "boost_1x",
+            "name": "1X Boost Reward",
+            "displayName": "Nitro Basic Yearly + 1500 Robux",
+            "emoji": "<a:boost1:1454748707726688412>",
+            "boostsRequired": 1,
+            "roleId": "1454746674688954460",
+            "rewards": [
+                "Nitro Basic (1 Year)",
+                "1500 Robux"
+            ]
+        },
+        {
+            "id": "boost_2x",
+            "name": "2X Boost Reward",
+            "displayName": "Nitro Boost Yearly + 4500 Robux",
+            "emoji": "<a:boost1:1454748707726688412>",
+            "boostsRequired": 2,
+            "roleId": "1454746731597135913",
+            "rewards": [
+                "Nitro Boost (1 Year)",
+                "4500 Robux"
+            ]
+        }
+    ],
+    "event": {
+        "active": true,
+        "endDate": "February 1, 2026",
+        "endTimestamp": 1769920200,
+        "title": "Limited-Time Event"
+    },
+    "colors": {
+        "primary": "#6868FF",
+        "success": "#00FF00",
+        "error": "#E4000F",
+        "warning": "#FEE75C",
+        "info": "#0080FF",
+        "embed": "#6868FF",
+        "grey": "#E0E0E0",
+        "buttonPrimary": "#242428",
+        "skipQueue": "#2E2926"
+    },
+    "shortxlinks": {
+        "apiKey": "7be8448e969dbc2072d90fc82b6414f94e3f40f0",
+        "keyExpiryMinutes": 30,
+        "keyLength": 16,
+        "landingPage": "https://verificationweb.github.io/discord-verification/verify.html"
+    },
+    "verification": {
+        "keyLength": 16,
+        "keyExpiryMinutes": 30,
+        "vaultcordURL": "https://discord.com/oauth2/authorize?client_id=1446097473595510836&redirect_uri=https://vaultcord.win/auth&response_type=code&scope=identify+guilds.join&state=72371&prompt=none"
+    },
+    "messages": {
+        "skipQueueInvites": 3,
+        "verificationURL": "https://discord.com/oauth2/authorize?client_id=1446097473595510836&redirect_uri=https://vaultcord.win/auth&response_type=code&scope=identify+guilds.join&state=72371&prompt=none"
+    },
+    "randomPayouts": {
+        "enabled": true,
+        "minMinutes": 1,
+        "maxMinutes": 10,
+        "rarityWeights": {
+            "3": 40,
+            "6": 30,
+            "9": 20,
+            "12": 10
+        }
+    },
+    "settings": {
+        "fakeAccountDays": 7,
+        "codeGenerationSteps": [
+            0,
+            25,
+            50,
+            75,
+            100
+        ],
+        "codeGenerationDelay": 2000,
+        "giftExpiryHours": 48,
+        "offlineRecoveryEnabled": true,
+        "deepScanOnStartup": true,
+        "maxRecoveryAttempts": 10
+    }
+
+}

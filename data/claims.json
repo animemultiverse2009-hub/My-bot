@@ -1,0 +1,413 @@
+{
+    "1453629766044483605": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "1 Month $2.99 Nitro Basic",
+            "emoji": "<:nitrobasic:1448599647013699615>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799"
+        },
+        "status": "completed",
+        "startedAt": 1766642744139,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "7N3W-81IH-AK0Q-SG9Z",
+        "keyGeneratedAt": 1766642752285,
+        "lootlabsUrl": "https://lootdest.org/s?PgT51Uru",
+        "lootlabsShortCode": "PgT51Uru",
+        "verifiedAt": 1766643880974,
+        "queueStarted": 1766643915622,
+        "baselineInvites": {
+            "total": 0,
+            "bonus": 5,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1766897550673,
+        "skipInvitesCount": 3
+    },
+    "1454761214407086233": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 7
+        },
+        "status": "completed",
+        "startedAt": 1766912502694,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "2IN5-Q5WY-Z3HY-9DUI",
+        "keyGeneratedAt": 1766912513408,
+        "lootlabsUrl": "https://lootdest.org/s?pcjd1s6Z",
+        "lootlabsShortCode": "pcjd1s6Z",
+        "verifiedAt": 1766912537641,
+        "queueStarted": 1766912560374,
+        "baselineInvites": {
+            "total": 0,
+            "bonus": 4,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1766912602318,
+        "skipInvitesCount": 3
+    },
+    "1455505412756602902": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 4
+        },
+        "status": "completed",
+        "startedAt": 1767089933169,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "K8KD-1BY8-OZX5-MZAL",
+        "keyGeneratedAt": 1767089940810,
+        "lootlabsUrl": "https://loot-link.com/s?IxVTXm2P",
+        "lootlabsShortCode": "IxVTXm2P",
+        "verifiedAt": 1767090135657,
+        "queueStarted": 1767090222922,
+        "baselineInvites": {
+            "total": 0,
+            "bonus": 1,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1767090257719,
+        "skipInvitesCount": 3
+    },
+    "1456261416632713309": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 4
+        },
+        "status": "completed",
+        "startedAt": 1767270178649,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "DI5J-ZAJM-AS0I-85U0",
+        "keyGeneratedAt": 1767270187489,
+        "lootlabsUrl": "https://loot-link.com/s?zguxk7sq",
+        "lootlabsShortCode": "zguxk7sq",
+        "verifiedAt": 1767270429349,
+        "queueStarted": 1767270479600,
+        "baselineInvites": {
+            "verified": 0,
+            "bonus": 1,
+            "total": 0,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1767270512016,
+        "skipInvitesCount": 3
+    },
+    "1456539645994336496": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 2,
+            "bonus": 3
+        },
+        "status": "completed",
+        "startedAt": 1767336513551,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "XZY4-IYDZ-AP91-S7KA",
+        "keyGeneratedAt": 1767336522335,
+        "lootlabsUrl": "https://loot-link.com/s?2zOFmhBp",
+        "lootlabsShortCode": "2zOFmhBp",
+        "verifiedAt": 1767336560220,
+        "queueStarted": 1767336581754,
+        "baselineInvites": {
+            "verified": 0,
+            "bonus": 2,
+            "total": 0,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1767336600265,
+        "skipInvitesCount": 3
+    },
+    "1456839922005704864": {
+        "userId": "1384461981884485742",
+        "rewardId": "robux_450",
+        "reward": {
+            "id": "robux_450",
+            "name": "450 Robux",
+            "emoji": "<:robux:1448599660766957680>",
+            "invitesRequired": 3,
+            "type": "robux",
+            "roleId": "1448641893255876799",
+            "displayName": "450 Robux",
+            "amount": 450,
+            "payoutImage": "https://media.discordapp.net/attachments/1454721689849036956/1454722097858351245/image_4.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454721689849036956/1454722714786070538/robux.webp",
+            "embedColor": "#F1EB7A"
+        },
+        "originalInvites": {
+            "total": 3,
+            "bonus": 0
+        },
+        "status": "completed",
+        "startedAt": 1767408104728,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "XQ13-OSLX-K04K-MX41",
+        "keyGeneratedAt": 1767408114317,
+        "lootlabsUrl": "https://loot-link.com/s?abfTMOq9",
+        "lootlabsShortCode": "abfTMOq9",
+        "verifiedAt": 1767408366105,
+        "queueStarted": 1767408386982,
+        "baselineInvites": {
+            "verified": 4,
+            "bonus": 0,
+            "total": 0,
+            "fake": 1,
+            "left": 0
+        },
+        "completedAt": 1767425896993,
+        "skipInvitesCount": 3
+    },
+    "1456945597759361046": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 3,
+            "verified": 2
+        },
+        "ticketId": "SVL0LL",
+        "channelId": "1456945597759361046",
+        "status": "completed",
+        "startedAt": 1767433299485,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "9B3X-S3SY-IL7Y-CFWA",
+        "keyGeneratedAt": 1767433317403,
+        "lootlabsUrl": "https://loot-link.com/s?J1bAHHFe",
+        "lootlabsShortCode": "J1bAHHFe",
+        "verifiedAt": 1767433340159,
+        "queueStarted": 1767433412673,
+        "baselineInvites": {
+            "verified": 2,
+            "bonus": 0,
+            "total": 0,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1767433705635,
+        "skipInvitesCount": 3
+    },
+    "1456947884506218538": {
+        "userId": "1448332774229413909",
+        "rewardId": "nitro_boost_1m",
+        "reward": {
+            "id": "nitro_boost_1m",
+            "name": "Nitro Boost (1 Month)",
+            "emoji": "<:nitroboost:1454712956230176811>",
+            "invitesRequired": 6,
+            "type": "nitro",
+            "roleId": "1448641968652423299",
+            "displayName": "Nitro",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720575867064410/1454720976330817661/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720575867064410/1454721504871841854/nitroboost.webp",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 6,
+            "verified": 0
+        },
+        "ticketId": "D2NMXE",
+        "channelId": "1456947884506218538",
+        "status": "completed",
+        "startedAt": 1767433845169,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "MNB8-L09Q-LBBD-0XW2",
+        "keyGeneratedAt": 1767433859635,
+        "lootlabsUrl": "https://lootdest.org/s?vs1ijvxs",
+        "lootlabsShortCode": "vs1ijvxs",
+        "verifiedAt": 1767433896415,
+        "queueStarted": 1767433913739,
+        "baselineInvites": {
+            "verified": 0,
+            "bonus": 0,
+            "total": 0,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1767433931468,
+        "skipInvitesCount": 3
+    },
+    "1457356805624692809": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1m",
+        "reward": {
+            "id": "nitro_basic_1m",
+            "name": "Nitro Basic (1 Month)",
+            "emoji": "<:nitrobasic1:1454711325350690937>",
+            "invitesRequired": 3,
+            "type": "nitro",
+            "roleId": "1448641893255876799",
+            "displayName": "Nitro Basic",
+            "duration": "1 month",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720549287886892/1454720866683453565/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720549287886892/1454721431278456877/nitrobasic1.png",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 6,
+            "verified": 2
+        },
+        "ticketId": "U6RXC1",
+        "channelId": "1457356805624692809",
+        "status": "completed",
+        "startedAt": 1767531339085,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "117I-DJHL-EL2Q-HT3Y",
+        "keyGeneratedAt": 1767531345850,
+        "lootlabsUrl": "https://loot-link.com/s?RQCyBODQ",
+        "lootlabsShortCode": "RQCyBODQ",
+        "verifiedAt": 1767531411308,
+        "queueStarted": 1767532543437,
+        "baselineInvites": {
+            "verified": 2,
+            "bonus": 3,
+            "total": 0,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1767534781056,
+        "skipInvitesCount": 3
+    },
+    "1479468174675017848": {
+        "userId": "1043117930885427201",
+        "rewardId": "nitro_basic_1y",
+        "reward": {
+            "id": "nitro_basic_1y",
+            "name": "Nitro Basic (1 Year)",
+            "emoji": "<:nitrobasic:1448599647013699615>",
+            "invitesRequired": 9,
+            "type": "nitro",
+            "roleId": "1454710094309625920",
+            "displayName": "Nitro Basic",
+            "duration": "1 year",
+            "payoutImage": "https://media.discordapp.net/attachments/1454720631101722829/1454721108497666110/image.png",
+            "payoutIcon": "https://media.discordapp.net/attachments/1454720631101722829/1454721394410786930/nitrobasic.webp",
+            "embedColor": "#5C8AFF"
+        },
+        "originalInvites": {
+            "total": 0,
+            "bonus": 100,
+            "verified": 0
+        },
+        "ticketId": "NFGN9B",
+        "channelId": "1479468174675017848",
+        "status": "completed",
+        "startedAt": 1772803100251,
+        "verified": true,
+        "codeGenerated": true,
+        "queueSkipped": true,
+        "verificationKey": "PLL2-9E38-GLQK-IIWL",
+        "keyGeneratedAt": 1772803107426,
+        "shortxlinksUrl": "https://shortxlinks.in/M1Pn9u",
+        "verifiedAt": 1772803123771,
+        "payoutSent": true,
+        "payoutSentAt": 1772803167281,
+        "queueStarted": 1772803194284,
+        "baselineInvites": {
+            "verified": 0,
+            "bonus": 91,
+            "total": 0,
+            "fake": 0,
+            "left": 0
+        },
+        "completedAt": 1772803230896,
+        "skipInvitesCount": 3
+    }
+}

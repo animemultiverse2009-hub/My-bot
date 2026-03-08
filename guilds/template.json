@@ -1,0 +1,48 @@
+{
+    "guildId": "",
+    "guildName": "",
+    "addedAt": 0,
+    "addedBy": "",
+    "plan": "free",
+    "setupComplete": false,
+    "active": true,
+    "channels": {
+        "claimCategory": null,
+        "checkInvites": null,
+        "howToInvite": null,
+        "inviteReward": null,
+        "claimReward": null,
+        "vouchPayments": null,
+        "boostPrizes": null,
+        "inviteLog": null
+    },
+    "roles": {
+        "adminPing": null,
+        "verifiedMember": null,
+        "humanVerified": null,
+        "3invites": null,
+        "6invites": null,
+        "9invites": null,
+        "12invites": null,
+        "boost1x": null,
+        "boost2x": null
+    },
+    "event": {
+        "active": true,
+        "endTimestamp": 1800000000,
+        "title": "Limited-Time Event"
+    },
+    "messages": {
+        "skipQueueInvites": 3,
+        "customRewardText": null,
+        "useDefaultText": true
+    },
+    "randomPayouts": {
+        "enabled": false,
+        "minMinutes": 5,
+        "maxMinutes": 15
+    },
+    "dmCampaignEnabled": false,
+    "setupStep": 0,
+    "setupData": {}
+}

@@ -1,0 +1,41 @@
+{
+    "guildId": "1448580909828931626",
+    "guildName": "Server Testing",
+    "addedAt": 1772895969835,
+    "plan": "premium",
+    "setupComplete": true,
+    "active": true,
+    "channels": {
+        "claimCategory": "1457973199869317226",
+        "checkInvites": "1458437315058991270",
+        "howToInvite": "1458437351251513499",
+        "inviteReward": "1458437174901870788",
+        "claimReward": "1458437174901870788",
+        "vouchPayments": "1448585136005320744",
+        "boostPrizes": "1458437214039052443",
+        "inviteLog": "1448585136005320744"
+    },
+    "roles": {
+        "adminPing": "1448594906355597446",
+        "3invites": "1448641893255876799",
+        "6invites": "1448641968652423299",
+        "9invites": "1454710094309625920",
+        "12invites": "1448642027326673029",
+        "boost1x": "1454746674688954460",
+        "boost2x": "1454746731597135913",
+        "verifiedMember": "1455507659611443272",
+        "humanVerified": "1455520475152126128"
+    },
+    "event": {
+        "active": true,
+        "endDate": "February 1, 2026",
+        "endTimestamp": 1769920200,
+        "title": "Limited-Time Event"
+    },
+    "messages": {
+        "skipQueueInvites": 3,
+        "useDefaultText": true
+    },
+    "setupStep": 0,
+    "setupData": {}
+}
